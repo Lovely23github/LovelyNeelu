@@ -8,6 +8,8 @@ public class DemoNeelu {
         else {
             System.out.println("Odd NUmber");
         }
+        System.out.println("This is 2nd branch");
+        System.out.println("This is 3rd branch");
     }
 
 }
